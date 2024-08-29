@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="shravanjadhav" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Analytcis with AI**
+- 🌱 I’m currently learning **Data Science and Analytics with AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShravanJadhav](https://github.com/ShravanJadhav)
 
