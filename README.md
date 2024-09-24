@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](![image](https://github.com/user-attachments/assets/cd9effa1-2ae4-4caa-83f3-068871b87a58)
-)
+<img align="center" alt="Data Science" width="1000" height="200" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ">
 <h1 align="center">Hi 👋, I'm Shravan Jadhav</h1>
 <h3 align="center">Great with Python, Java, SQL and other languages and the ability to work in a team to make the best of any situation.</h3>
 
