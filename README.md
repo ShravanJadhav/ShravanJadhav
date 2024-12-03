@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **shravanjadhav844@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/moDJR](https://shorturl.at/moDJR)
+- 📄 Know about my experiences https://www.linkedin.com/in/shravan-jadhav/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
